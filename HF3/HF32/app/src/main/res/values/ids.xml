@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pcodet" type="id" />
+    <item name="pnamet" type="id" />
+    <item name="ppricet" type="id" />
+    <item name="cancel" type="id" />
+    <item name="show" type="id" />
+</resources>
